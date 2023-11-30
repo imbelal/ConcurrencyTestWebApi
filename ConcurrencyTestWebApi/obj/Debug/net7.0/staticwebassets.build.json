@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0jE/uWh//LXE1qjiDfzmZW3MOS5xlEibdrLx/9UzC54=",
+  "Source": "ConcurrencyTestWebApi",
+  "BasePath": "_content/ConcurrencyTestWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
